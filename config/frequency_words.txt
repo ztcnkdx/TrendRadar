@@ -1,6 +1,3 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
@@ -26,9 +23,6 @@ DJI
 黑神话
 冯骥
 
-影之刃零
-梁其伟
-
 哪吒
 饺子
 杨宇
@@ -39,8 +33,6 @@ DJI
 流浪地球
 刘慈欣
 郭帆
-
-申奥
 
 京东
 刘强东
@@ -69,6 +61,7 @@ deepmind
 chatgpt
 openai
 sora
+Sam Altman
 
 claude
 Anthropic
@@ -100,9 +93,6 @@ ai
 
 核能
 
-水电站
-雅鲁藏布江
-
 新质生产力
 
 月球
@@ -111,3 +101,4 @@ ai
 宇宙
 飞船
 航空
+SpaceX
